@@ -34,7 +34,7 @@ body {
 }
 
 .section-colored {
-  background-color: #F0F8FF;
+  background: url('http://subtlepatterns.com/patterns/fabric_of_squares_gray.png');
  /* change this to change the background color of a colored section */
 }
 
